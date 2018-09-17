@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_upgrade_chec_scoped_table_1" version="2" view="RPTbdf9d3381328e300f7f0754a6144b057">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>b9f9d3381328e300f7f0754a6144b05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>3df9d3381328e300f7f0754a6144b05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>bdf9d3381328e300f7f0754a6144b05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caller_id</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>31f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>b1f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>35f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>b5f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>39f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>b9f9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>3df9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_snc_upgrade_chec_scoped_table_1" element="NULL" name="x_snc_upgrade_chec_scoped_table_1" parent="NULL" relationship="NULL" sys_domain="global" view="e8c591eddba823008f33d141ce961965">f1f9d3381328e300f7f0754a6144b05d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_id>bdf9d3381328e300f7f0754a6144b05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_upgrade_chec_scoped_table_1</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-12 14:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1f9d3381328e300f7f0754a6144b05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_upgrade_chec_scoped_table_1</sys_name>
+            <sys_package display_value="Upgrade Checker" source="x_snc_upgrade_chec">66729c7613506300f7f0754a6144b0f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Upgrade Checker">66729c7613506300f7f0754a6144b0f0</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_upgrade_chec_scoped_table_1_RPTbdf9d3381328e300f7f0754a6144b057</sys_update_name>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-12 14:55:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptbdf9d3381328e300f7f0754a6144b057" name="RPTbdf9d3381328e300f7f0754a6144b057">e8c591eddba823008f33d141ce961965</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

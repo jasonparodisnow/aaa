@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="test report - INT3860585">576f433c13e4e300f7f0754a6144b059</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>jason.parodi@snc</sys_created_by>
+        <sys_created_on>2018-09-12 14:14:56</sys_created_on>
+        <sys_id>32b01f3c13e4e300f7f0754a6144b006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>576f433c13e4e300f7f0754a6144b059</sys_name>
+        <sys_package display_value="Upgrade Checker" source="x_snc_upgrade_chec">66729c7613506300f7f0754a6144b0f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upgrade Checker">66729c7613506300f7f0754a6144b0f0</sys_scope>
+        <sys_update_name>sys_report_users_groups_32b01f3c13e4e300f7f0754a6144b006</sys_update_name>
+        <sys_updated_by>jason.parodi@snc</sys_updated_by>
+        <sys_updated_on>2018-09-12 14:14:56</sys_updated_on>
+        <user_id display_value="">jason.parodi@snc</user_id>
+    </sys_report_users_groups>
+</record_update>
